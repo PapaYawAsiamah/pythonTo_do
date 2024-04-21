@@ -1,1 +1,1 @@
-# pythonTo_do
+A to_do app built with python
